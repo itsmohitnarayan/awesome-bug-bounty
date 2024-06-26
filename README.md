@@ -89,3 +89,7 @@ Thank you for contributing!
 Thank you so much to everyone who helped make this list better!
 
 - [itsmohitnarayan](https://github.com/itsmohitnarayan/)
+
+## License
+This repository is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For more information, see the [LICENSE](LICENSE) file or visit the [Creative Commons website](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+

@@ -86,7 +86,13 @@ I want contributing to this awesome list to be as simple as possible. Just:
 Thank you for contributing!
 
 ## Contributors
-Thank you so much to everyone who helped make this list better!
+- [Contributor 1](https://github.com/contributor1)
+- [Contributor 2](https://github.com/contributor2)
+- [Contributor 3](https://github.com/contributor3)
+
+To add your name to this list, please follow the [contributing guidelines](CONTRIBUTING.md).
+
+## Core Team
 
 - [itsmohitnarayan](https://github.com/itsmohitnarayan/)
 

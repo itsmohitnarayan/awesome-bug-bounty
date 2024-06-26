@@ -40,6 +40,9 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for web application security.
 
 ## Payloads
+- [PdfExploits](https://github.com/coffinxp/pdFExploits) - Collection of XSS PDF Exploits.
+- [Image XSS Payload](https://github.com/coffinxp/img-payloads) - Collection of XSS Payload Binded in Images.
+- [All Type of Payload](https://github.com/coffinxp/payloads) - Collection of All type of payload XSS,SQL,Directory Traversal,Fuzzing etc.
 - [XSS Payload List](https://github.com/payloadbox/xss-payload-list) - Collection of XSS payloads for testing.
 - [Superbug's Payloads](https://github.com/xsuperbug/payloads) - Repository of various payloads for different attacks.
 - [Offensive Payloads](https://github.com/InfoSecWarrior/Offensive-Payloads) - Collection of offensive payloads for penetration testing.

@@ -2,6 +2,7 @@
 A curated list of resources, tools, and wordlists for bug bounty hunters.
 
 ## Table of Contents
+- [Notes](#bug-bounty-notes)
 - [Platforms](#platforms)
 - [Tools](#tools)
 - [Wordlists](#wordlists)
@@ -13,6 +14,9 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [Communities](#communities)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+## Bug Bounty Notes
+-[Buggy Note](https://bit.ly/defronixBugBounty-buGGy) - Bug Bounty Notes For Beginners.
 
 ## Platforms
 - [HackerOne](https://www.hackerone.com) - Bug bounty platform connecting businesses with security researchers.

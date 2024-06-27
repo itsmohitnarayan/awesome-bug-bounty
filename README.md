@@ -36,6 +36,7 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Full-featured web reconnaissance framework.
 - [Nikto](https://cirt.net/Nikto2) - Web server scanner that detects vulnerabilities and misconfigurations.
 - [Metasploit](https://www.metasploit.com) - Comprehensive penetration testing framework.
+- [XSSer](https://github.com/epsylon/xsser) - An automatic framework to detect and report XSS vulnerabilities.
 
 ## Wordlists
 - [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.

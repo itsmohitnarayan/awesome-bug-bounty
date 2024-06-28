@@ -16,8 +16,8 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [Contributors](#contributors)
 
 ## Bug Bounty Notes
--[Buggy Note](https://bit.ly/defronixBugBounty-buGGy)-Bug Bounty Notes For Beginners.
--[Bug Bounty Methodology](https://kathan19.gitbook.io/howtohunt)- A bug Bounty Methodology on How to Hunt on Targets.
+-[Buggy Note](https://bit.ly/defronixBugBounty-buGGy) - Bug Bounty Notes For Beginners.
+-[Methodology](https://kathan19.gitbook.io/howtohunt)- A bug Bounty Methodology on How to Hunt on Targets.
 
 ## Platforms
 - [HackerOne](https://www.hackerone.com) - Bug bounty platform connecting businesses with security researchers.

@@ -42,6 +42,7 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
 - [Shodan](https://www.shodan.io/) - Search Engine for the Internet of everything.
 - [Crt.sh](https://crt.sh/) - Get Info of Domain Name,Sub Domains, Ip address, Organization Name, etc.
+- [Kitterman](https://www.kitterman.com/spf/validate.html) - These tools are meant to help you deploy SPF records for your domain.
 
 
 ### Other Tools

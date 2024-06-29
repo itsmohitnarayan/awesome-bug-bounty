@@ -28,9 +28,14 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [YesWeHack](https://www.yeswehack.com) - Bug bounty platform offering a wide range of programs.
 
 ## Tools
+
+### Recon Tools
+- [Nmap](https://nmap.org) - Network exploration and security auditing tool.
+
+
+### Other Tools
 - [Burp Suite](https://portswigger.net/burp) - Leading tool for web application security testing.
 - [OWASP ZAP](https://www.zaproxy.org) - Free security tool for finding vulnerabilities in web applications.
-- [Nmap](https://nmap.org) - Network exploration and security auditing tool.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers.
 - [Amass](https://github.com/OWASP/Amass) - In-depth DNS enumeration and network mapping.
 - [SQLMap](https://sqlmap.org) - Automatic SQL injection and database takeover tool.

@@ -40,6 +40,8 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [Pentest Tool](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - This tool combines passive and active discovery methods to help you research the subdomains.
 - [SubDomain Finder](https://subdomainfinder.c99.nl/) - A subdomain finder is a tool used to find the subdomains of a given domain.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches.
+- [Shodan](https://www.shodan.io/) - Search Engine for the Internet of everything.
+- [Crt.sh](https://crt.sh/) - Get Info of Domain Name,Sub Domains, Ip address, Organization Name, etc.
 
 
 ### Other Tools

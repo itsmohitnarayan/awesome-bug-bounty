@@ -41,7 +41,6 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [SubDomain Finder](https://subdomainfinder.c99.nl/) - A subdomain finder is a tool used to find the subdomains of a given domain.
 
 
-
 ### Other Tools
 - [Burp Suite](https://portswigger.net/burp) - Leading tool for web application security testing.
 - [OWASP ZAP](https://www.zaproxy.org) - Free security tool for finding vulnerabilities in web applications.

@@ -30,7 +30,18 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 ## Tools
 
 ### Recon Tools
+
+# Active Recon
 - [Nmap](https://nmap.org) - Network exploration and security auditing tool.
+- [Nessus](https://www.tenable.com/products/nessus) - Vulnerablity Scanner.
+- [OpenVAS](https://www.openvas.org/) - OpenVAS is a full-featured vulnerability scanner.
+
+# Passive Recon
+- [Wireshark](https://www.wireshark.org/) - The world's most popular network protocol analyzer.
+- [Google Dorks](https://www.google.com/) - Google Dork.
+- [Pentest Tool](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - This tool combines passive and active discovery methods to help you research the subdomains.
+- [SubDomain Finder](https://subdomainfinder.c99.nl/) - A subdomain finder is a tool used to find the subdomains of a given domain.
+
 
 
 ### Other Tools

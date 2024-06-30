@@ -11,6 +11,7 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [Learning Resources](#learning-resources)
 - [Blogs and Write-ups](#blogs-and-write-ups)
 - [Books](#books)
+- [VPS](#vps)
 - [Conferences and Talks](#conferences-and-talks)
 - [Communities](#communities)
 - [Contributing](#contributing)
@@ -95,6 +96,9 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Comprehensive guide to web application security testing.
 - [Bug Bounty Hunting Essentials](https://www.amazon.com/Bug-Bounty-Hunting-Essentials-vulnerabilities/dp/178862689X) - Guide to discovering and reporting vulnerabilities to earn bug bounties.
 - [Real-World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Security-Researchers/dp/1593278616) - Field guide to finding software vulnerabilities.
+
+## VPS
+- [Ok-VPS](https://github.com/mrco24/OK-VPS) - Bug Bounty Vps Setup Tools.
 
 ## Conferences and Talks
 - [Black Hat](https://www.blackhat.com) - Information security conference with a focus on technical research.

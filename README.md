@@ -3,6 +3,7 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 
 ## Table of Contents
 - [Notes](#bug-bounty-notes)
+- [Roadmap](#bug-bounty-roadmap)
 - [Platforms](#platforms)
 - [Tools](#tools)
 - [Wordlists](#wordlists)

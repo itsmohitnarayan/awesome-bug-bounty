@@ -99,6 +99,7 @@ A curated list of resources, tools, and wordlists for bug bounty hunters.
 
 ## VPS
 - [Ok-VPS](https://github.com/mrco24/OK-VPS) - Bug Bounty Vps Setup Tools.
+- [Coffin Bughunting Tool](https://github.com/coffinxp/bughuntingtools) - Bug Bounty hunting tool for Vps.
 
 ## Conferences and Talks
 - [Black Hat](https://www.blackhat.com) - Information security conference with a focus on technical research.

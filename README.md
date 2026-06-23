@@ -199,6 +199,7 @@
 - [COLI](https://github.com/justakazh/coli) - Visual orchestration for CLI bug bounty workflows (subfinder→httpx→nuclei).
 
 ### Miscellaneous
+- [ARS3NAL](https://github.com/inflictx/Arsenal) - Offline, searchable pentest/bug-bounty arsenal: a click-to-build command generator, 1500+ payloads, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vuln checklists. [Live demo](https://inflictx.github.io/Arsenal/).
 - [Gowitness](https://github.com/sensepost/gowitness) - Web screenshot utility using Chrome Headless.
 - [EyeWitness](https://github.com/RedSiege/EyeWitness) - Take screenshots of websites and identify default credentials.
 - [Subhunter](https://github.com/umutcamliyurt/Subhunter) - Fast subdomain takeover detection tool.

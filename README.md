@@ -196,6 +196,7 @@
 - [BBRF](https://github.com/honoki/bbrf-client) - Bug Bounty Reconnaissance Framework for tracking scope and data.
 - [Axiom](https://github.com/pry0cc/axiom) - Dynamic infrastructure framework for parallelized scanning.
 - [ReconFTW](https://github.com/six2dez/reconftw) - Tool designed to automate the entire recon process.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host that orchestrates per-technology offensive sub-agents across web, Active Directory, and Kubernetes, with a local LLM, a Privacy Gateway, and an evidence trail per finding.
 - [COLI](https://github.com/justakazh/coli) - Visual orchestration for CLI bug bounty workflows (subfinder→httpx→nuclei).
 
 ### Miscellaneous

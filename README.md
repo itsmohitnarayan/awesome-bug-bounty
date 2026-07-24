@@ -44,6 +44,7 @@
 - [KingOfBugBountyTips](https://github.com/KingOfBugBounty/KingOfBugBountyTips) - Elite one-liner tips from well-known bug hunters.
 - [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - Comprehensive notes about bug bounty vulnerability types.
 - [Bug Bounty Checklist](https://github.com/sehno/Bug-bounty) - Checklist and methodology reference for bug hunters.
+- [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) - Real disclosed HackerOne reports broken into reproducible testing checklists.
 
 ## Bug Bounty Roadmap
 - [Cyberhub Roadmap](https://www.thecyberhub.org/roadmaps/bug-hunting) - Bug bounty Roadmap by The Cyber Hub.
@@ -286,7 +287,9 @@
 - [Infosec Write-ups (Medium)](https://infosecwriteups.com/) - Community-driven security write-ups on Medium.
 - [vidocsecurity.com Blog](https://www.vidocsecurity.com/blog/) - Modern vulnerability research articles and tool reviews.
 - [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) - Enterprise vulnerability write-ups from a developer-turned-pentester's perspective, with real business-impact framing across regulated industries.
-
+- [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) - Practical tool usage guides and WAPT methodology from real enterprise engagements.
+- [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) - Practical usage guides and API methodology from real enterprise engagements.
+  
 ## Books
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Comprehensive guide to web application security testing.
 - [Bug Bounty Bootcamp](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544) - Vickie Li's guide to finding and reporting web vulnerabilities.

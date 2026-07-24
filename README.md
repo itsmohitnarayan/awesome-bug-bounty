@@ -285,6 +285,7 @@
 - [Labs Detectify](https://labs.detectify.com/) - Security research and ethical hacking articles.
 - [Infosec Write-ups (Medium)](https://infosecwriteups.com/) - Community-driven security write-ups on Medium.
 - [vidocsecurity.com Blog](https://www.vidocsecurity.com/blog/) - Modern vulnerability research articles and tool reviews.
+- [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) - Enterprise vulnerability write-ups from a developer-turned-pentester's perspective, with real business-impact framing across regulated industries.
 
 ## Books
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) - Comprehensive guide to web application security testing.

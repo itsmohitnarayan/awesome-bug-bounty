@@ -200,6 +200,7 @@
 - [COLI](https://github.com/justakazh/coli) - Visual orchestration for CLI bug bounty workflows (subfinder→httpx→nuclei).
 
 ### Miscellaneous
+- [Recon Vault](https://chromewebstore.google.com/detail/lkbikpamkakdnhmcgnmedohiknobfnle) - Chrome extension for storing XSS/SQLi/SSRF payloads, recon commands, and vulnerability report templates, with one-click insertion into any field, variable placeholders, and local-only storage.
 - [ARS3NAL](https://github.com/inflictx/Arsenal) - Offline, searchable pentest/bug-bounty arsenal: a click-to-build command generator, 1500+ payloads, GTFOBins, wordlists, an embedded CyberChef, reverse shells and per-vuln checklists. [Live demo](https://inflictx.github.io/Arsenal/).
 - [Gowitness](https://github.com/sensepost/gowitness) - Web screenshot utility using Chrome Headless.
 - [EyeWitness](https://github.com/RedSiege/EyeWitness) - Take screenshots of websites and identify default credentials.

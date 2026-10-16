@@ -114,6 +114,7 @@
 - [Nessus](https://www.tenable.com/products/nessus) - Comprehensive vulnerability scanner by Tenable.
 - [OpenVAS](https://www.openvas.org/) - Full-featured open-source vulnerability scanner.
 - [Metasploit](https://www.metasploit.com) - Comprehensive penetration testing framework.
+- [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - Self-hosted web vulnerability scanner with 200 deterministic modules covering OWASP Top 10, WordPress and AI/LLM surfaces.
 
 ### Web Crawling & Spidering
 - [Katana](https://github.com/projectdiscovery/katana) - Next-generation crawling and spidering framework. ⭐15.6k+

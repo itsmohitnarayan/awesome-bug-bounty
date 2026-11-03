@@ -255,6 +255,7 @@
 | DNSDumpster | [dnsdumpster.com](https://dnsdumpster.com) | DNS recon |
 | crt.sh | [crt.sh](https://crt.sh) | Certificate transparency |
 | SecurityTrails | [securitytrails.com](https://securitytrails.com) | DNS history & WHOIS |
+| Profundis | [profundis.io](https://profundis.io) | Subdomain discovery, DNS, WHOIS & certificate research |
 | PublicWWW | [publicwww.com](https://publicwww.com) | Source code search |
 | Grep.app | [grep.app](https://grep.app) | GitHub code search |
 

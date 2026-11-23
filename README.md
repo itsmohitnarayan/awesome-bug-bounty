@@ -199,6 +199,7 @@
 - [ReconFTW](https://github.com/six2dez/reconftw) - Tool designed to automate the entire recon process.
 - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host that orchestrates per-technology offensive sub-agents across web, Active Directory, and Kubernetes, with a local LLM, a Privacy Gateway, and an evidence trail per finding.
 - [COLI](https://github.com/justakazh/coli) - Visual orchestration for CLI bug bounty workflows (subfinder→httpx→nuclei).
+- [Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Open-source autonomous pentest framework that orchestrates a swarm of AI agents through recon, classification, vulnerability chaining, and exploitation, proving each finding with a working PoC, behind fail-closed scope, egress and authorization guardrails.
 
 ### Miscellaneous
 - [Recon Vault](https://chromewebstore.google.com/detail/lkbikpamkakdnhmcgnmedohiknobfnle) - Chrome extension for storing XSS/SQLi/SSRF payloads, recon commands, and vulnerability report templates, with one-click insertion into any field, variable placeholders, and local-only storage.
